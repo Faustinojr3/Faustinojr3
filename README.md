@@ -1,12 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<div align="center">
-  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=8000&color=00BFBF&center=true&vCenter=true&multiline=true&width=435&lines=Be+Welcome!)](https://git.io/typing-svg)
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=800&color=00BFBF&vCenter=true&multiline=true&width=500&height=120&lines=I+am+Faustino%2C+a+backend+developer%2C+from+Brazil.;Currently+pursuing+a+Systems+Analysis+technologist++;degree+at+the+Federal+Institute+of+Education%2C+Science;+%2C+and+Technology+of+Rond%C3%B4nia(IFRO)+Ji-Paran%C3%A1+Campus.)](https://git.io/typing-svg)
-</div>
 
 <div align="center"> 
 
@@ -22,14 +18,16 @@
 <br> </br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faustinojr3&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 
 ### Main skills:
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+![DotNet](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=white)&nbsp; 
+
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
@@ -41,8 +39,8 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -51,6 +49,3 @@
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-
-
