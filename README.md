@@ -19,11 +19,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faustinojr3&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Faustinojr3&theme=gotham)
-
-
-
-  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faustinojr3&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Main skills:
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
