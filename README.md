@@ -1,10 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
+<div align="center"> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=8000&color=00BFBF&center=true&vCenter=true&multiline=true&width=435&lines=Be+Welcome!)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=800&color=00BFBF&vCenter=true&multiline=true&width=500&height=120&lines=I+am+Faustino%2C+a+backend+developer%2C+from+Brazil.;Currently+pursuing+a+Systems+Analysis+technologist++;degree+at+the+Federal+Institute+of+Education%2C+Science;+%2C+and+Technology+of+Rond%C3%B4nia(IFRO)+Ji-Paran%C3%A1+Campus.)](https://git.io/typing-svg)
 
-<div align="center"> 
+
 
 [![LinkedIn ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faustino-junior) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faustinojuniot2020pro@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/faustino_jr3/)
 </div>
