@@ -1,9 +1,8 @@
-### Hi there 👋
+ ## Olá eu sou o Faustino Junior 👋
 
-<!--
-**Faustinojr3/Faustinojr3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faustino-junior) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faustinojuniot2020pro@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/faustino_jr3/)
 
-Here are some ideas to get you started:
+![Faustino GitHub stats](https://github-readme-stats.vercel.app/api?username=faustinojr3&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustinojr3&langs_count=8)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
