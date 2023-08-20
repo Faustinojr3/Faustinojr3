@@ -45,6 +45,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
 ![NodeJs](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
